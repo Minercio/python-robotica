@@ -1,0 +1,5 @@
+nombre:  Minercio <class 'str'>
+ruedas:  4 <class 'int'>
+diametro_rueda:  5 <class 'int'>
+bateria:  100 <class 'int'>
+encendido:  True <class 'bool'>

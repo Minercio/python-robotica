@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+File "c:\Users\miner\Downloads\python-robotica\modulo-02-variables-y-tipos\actividad-8\solucion\depuracion.py", line 2, in <module>
+    numero2 = int(numero)
+ ValueError: invalid literal for int() with base 10: '9.97'
+
+No permite ejecutarlo debido a que 9.97 al ser un numero decimal no es compatible con la variable int

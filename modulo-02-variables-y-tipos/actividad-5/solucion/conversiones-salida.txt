@@ -1,0 +1,6 @@
+texto_entero <class 'str'>
+texto_entero <class 'int'>
+texto_decimal <class 'str'>
+texto_decimal <class 'float'>
+numero <class 'int'>
+numero <class 'str'>

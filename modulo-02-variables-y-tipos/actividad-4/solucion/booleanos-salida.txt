@@ -1,0 +1,4 @@
+bateria_ok True
+hay_pared False
+cargando False
+modo_autonomo True

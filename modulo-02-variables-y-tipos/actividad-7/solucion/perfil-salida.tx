@@ -1,0 +1,5 @@
+nombre Minercio <class 'str'>
+anio 9 <class 'int'>
+altura_com 9.21 <class 'float'>
+autonomo True <class 'bool'>
+VERSION_ESPERADA v1.0 <class 'str'>

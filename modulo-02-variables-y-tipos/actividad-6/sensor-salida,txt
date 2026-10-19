@@ -1,0 +1,5 @@
+distancia_texto 45 <class 'str'>
+distancia 45.0 <class 'float'>
+UNIDAD cm <class 'str'>
+bateria 80 <class 'str'>
+NOMBRE_SENSOR distancia <class 'str'>

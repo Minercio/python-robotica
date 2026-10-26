@@ -1,0 +1,4 @@
+tamaño de la lista: 4
+adelante
+izquierda
+parar

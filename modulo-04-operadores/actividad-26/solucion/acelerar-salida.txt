@@ -1,0 +1,5 @@
+bateria > 80 and velocidad > 60 False
+not (bateria > 20) True
+minutos // gasto 3
+minutos % gasto 10
+voltaje ** 2 9

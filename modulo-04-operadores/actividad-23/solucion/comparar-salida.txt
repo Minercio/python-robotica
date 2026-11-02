@@ -1,0 +1,4 @@
+bateria < 20 False
+bateria > 80 True
+velocidad <= 60 True
+velocidad >= 60 False

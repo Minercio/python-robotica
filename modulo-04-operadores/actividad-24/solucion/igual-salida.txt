@@ -1,0 +1,4 @@
+velocidad == 0 True
+velocidad != 0 False
+sensor == "ultrasonidos" True
+sensor != "luz" True

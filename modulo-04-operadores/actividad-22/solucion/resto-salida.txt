@@ -1,0 +1,2 @@
+sobra 10
+potencia 9

@@ -1,0 +1,3 @@
+bateria > 80 and velocidad > 60 True
+bateria < 20 or hay_pared False
+bateria_baja < 20 or hay_pared True

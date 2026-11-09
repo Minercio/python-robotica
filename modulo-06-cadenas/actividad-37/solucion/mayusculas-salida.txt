@@ -1,0 +1,3 @@
+orden.upper() ADELANTE
+orden.lower() adelante
+orden Adelante

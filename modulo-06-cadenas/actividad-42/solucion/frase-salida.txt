@@ -1,0 +1,3 @@
+mayusculas EL SENSOR MIDE DISTANCIA
+len(mayusculas) 24
+"-".join(palabras) EL-SENSOR-MIDE-DISTANCIA
